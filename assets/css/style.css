@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#reultCard{
+    background-color: blueviolet;
+}
+html, body{
+    background-color: rgb(181, 155, 205);
+}
+.form-group{
+    width: 100%;
+}
+thead{
+    background-color: rgb(193, 140, 243);
+}
+tbody{
+    background-color: rgb(228, 213, 243);
+}
+#spinner{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, .8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
